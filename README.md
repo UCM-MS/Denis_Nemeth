@@ -4,5 +4,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00BFFF&center=false&vCenter=true&width=500&lines=Multimedi%C3%A1lne+syst%C3%A9my" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00BFFF&center=false&vCenter=true&width=300&lines=08.10.2026" />
 <p align="center">
-  <img src="Assets/Images/desee.png" width="100%" alt="des" />
+  <img src="Assets/Images/desee.jpg" width="100%" alt="des" />
 </p>
